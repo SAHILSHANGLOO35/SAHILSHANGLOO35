@@ -1,6 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)]
 <h1 align="center">Hi 👋, I'm Sahil Shangloo</h1>
-<h3 align="center">A Machine Learning Enthusiast and a Web Developer from India.</h3>
+<h3 align="center">A Full stack developer from India.</h3>
 <img align="right" alt="coding" width"400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilshangloo35&label=Profile%20views&color=0e75b6&style=flat" alt="sahilshangloo35" /> </p>
@@ -9,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sahilshangloo35" target="blank"><img src="https://img.shields.io/twitter/follow/sahilshangloo35?logo=twitter&style=for-the-badge" alt="sahilshangloo35" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Web Development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@SahilShangloo](https://hashnode.com/@SahilShangloo)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **sahilshangloo35@gmail.com**
 
-- ⚡ Hobbies: **Multiplayer Mobile/PC Gamer**
+- ⚡ Hobbies: **Multiplayer Mobile/PC Gamer** **Hip Hop listener**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
