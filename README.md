@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilshangloo35" target="blank"><img src="https://img.shields.io/twitter/follow/sahilshangloo35?logo=twitter&style=for-the-badge" alt="sahilshangloo35" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 Just Diving Deep into **Web Development**
 
 - 📝 I regularly write articles on [https://hashnode.com/@SahilShangloo](https://hashnode.com/@SahilShangloo)
 
@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahilshangloo35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilshangloo35" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-shangloo-b12895256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-shangloo-b12895256/" height="30" width="40" /></a>
-<a href="https://instagram.com/sahilshangloo_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilshangloo_25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-shangloo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-shangloo-b12895256/" height="30" width="40" /></a>
+<a href="https://instagram.com/sahilshangloo.35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilshangloo_25" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@sahilshangloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@sahilshangloo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/sahilshangloo35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sahilshangloo35/" height="30" width="40" /></a>
 <a href="https://discord.gg/SahilOp#0867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SahilOp#0867" height="30" width="40" /></a>
