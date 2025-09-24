@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Sahil Shangloo<br>🌱 I’m currently learning: DevOps<br>⚡ Fun fact | Hobby: Rapping, Multiplayer Gamer<br>📫 Reach me at: sahilshangloo35@gmail.com
+👋 Hi, my name is Sahil Shangloo<br>🌱 I’m currently learning: Web3<br>⚡ Fun fact | Hobby: Rapping, Multiplayer Gamer<br>📫 Reach me at: sahilshangloo35@gmail.com<br>🌐Portfolio: https://doublesdotdev.me
 
 
 ## 🌐 Socials:
